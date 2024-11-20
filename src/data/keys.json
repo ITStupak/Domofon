@@ -1,0 +1,38 @@
+[
+  {
+    "adres": "Boleslawa Prusa",
+    "klatka": "6",
+    "code": "A4777",
+    "info": "6 pietro, m.76"
+  },
+  {
+    "adres": "Romana Dmowskiego",
+    "klatka": "61",
+    "code": "A1207",
+    "info": "3 pietro, m.37"
+  },
+  {
+    "adres": "Lotnicza",
+    "klatka": "145b",
+    "code": "01515",
+    "info": "m.56"
+  },
+  {
+    "adres": "Malopanewska",
+    "klatka": "8b",
+    "code": "A8450",
+    "info": "m.16"
+  },
+  {
+    "adres": "Bialowieska",
+    "klatka": "105",
+    "code": "A2020",
+    "info": "3 pietro, m.21"
+  },
+  {
+    "adres": "Pochyla",
+    "klatka": "7",
+    "code": "key2802key",
+    "info": "m.1c"
+  }
+]
